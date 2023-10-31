@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sarchbar/static/css/main.4df39c22.css",
+    "main.js": "/sarchbar/static/js/main.35bb6978.js",
+    "static/js/787.d3befce1.chunk.js": "/sarchbar/static/js/787.d3befce1.chunk.js",
+    "index.html": "/sarchbar/index.html",
+    "main.4df39c22.css.map": "/sarchbar/static/css/main.4df39c22.css.map",
+    "main.35bb6978.js.map": "/sarchbar/static/js/main.35bb6978.js.map",
+    "787.d3befce1.chunk.js.map": "/sarchbar/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4df39c22.css",
+    "static/js/main.35bb6978.js"
+  ]
+}
